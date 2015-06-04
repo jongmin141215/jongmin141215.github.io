@@ -2,7 +2,7 @@
 
 ## JavaScript, HTML, and CSS
 
-Please visit jongmin141215.github.io 
+Please visit http://jongmin141215.github.io 
 
 ## Ruby on Rails
 
