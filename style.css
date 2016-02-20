@@ -1,3 +1,58 @@
+body {
+  font-family: sans-serif;
+}
+#navbar {
+  position: relative;
+  background-color: #505050;
+  padding: 1px 1px;
+  margin-right: -15px;
+  top: -23px;
+  left: -7px;
+}
+#logo {
+  font-weight: bold;
+  color: #ed8f31;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+#title {
+  color: #7b7b7b;
+  margin-left: 35px;
+  margin-top: -2px;
+}
+ul {
+  list-style-type: none;
+}
+li {
+  margin-bottom: 7px;
+}
 a {
   text-decoration: none;
+  color: #ed8f31;
+}
+p {
+  margin-left: 10px;
+  color: #505050;
+}
+.project {
+  font-weight: bold;
+  color: #ed8f31;
+  font-size: 20px;
+}
+.framework {
+  color: #8c8c8c;
+  font-size: 12px;
+}
+a .project:hover {
+  color: #505050;
+}
+.source {
+  color: #fe9f42;
+}
+.source:hover {
+  color: #ed8f31;
+}
+.git {
+  width: 20px;
+  height: 20px;
 }
